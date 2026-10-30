@@ -143,7 +143,7 @@ input:focus-visible {
   line-height: 1.6;
 }
 .completed .todo-text {
-  color: #949a8d;
+  color: #3a5c13;
   text-decoration: line-through;
 }
 .text-button {
